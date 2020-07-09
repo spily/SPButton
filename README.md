@@ -10,4 +10,6 @@
 ```
   [self.button setImageLayout:UIButtonLayoutImageLeft space:8];
   ```
+# Demo演示图
+![image](https://github.com/spily/SPButton/master/Gif/TaoBaoTopLineGif.gif)
 
