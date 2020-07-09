@@ -8,6 +8,6 @@
   ```
 - 设置图文位置和间距
 ```
-    [self.button setImageLayout:UIButtonLayoutImageLeft space:8];
+  [self.button setImageLayout:UIButtonLayoutImageLeft space:8];
   ```
 
