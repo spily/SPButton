@@ -3,4 +3,11 @@
 
 # 如何使用
 - 导入button的分类，给button赋能
+```
+  #import "UIButton+ContentLayout.h"
+  ```
+- 设置图文位置和间距
+```
+    [self.button setImageLayout:UIButtonLayoutImageLeft space:8];
+  ```
 
